@@ -1,0 +1,25 @@
+quadri:
+  name: Oluwadamilare Quadri
+  title: Backend Engineer
+  url: https://www.linkedin.com/in/oluwadamilare-quadri-98913724a/
+  image_url: https://media.licdn.com/dms/image/v2/D4E03AQG_6nJ3gjp9PA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1707672337281?e=1729123200&v=beta&t=FQppHb1TMepw5ZUw01tMHY_5a5bbxJOEQSA5kxpdPQM
+  page: true
+  permalink: ''
+  socials:
+    x: oluwadamilarequadri
+    github: oluwadamilarequadri
+
+oreva:
+  name: Oreva Jovisam Orior
+  title: CEO HEMS
+  url: https://orizma-portfolio.netlify.app/
+  image_url: https://media.licdn.com/dms/image/v2/D4D03AQF1ELC5BD2PBw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1699150192445?e=1729123200&v=beta&t=LvTqHOVxwtHDp2Djc9DL1ZIwHzIMhxZUb3wQCw7kpmk
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/oreva-jovisam-orior'
+  socials:
+    x: orizmapakison
+    linkedin: oreva-orior-jovisam
+    github: OrizmaPak
+    newsletter: https://thisweekinreact.com
+
