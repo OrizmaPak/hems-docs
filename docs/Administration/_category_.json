@@ -1,0 +1,7 @@
+{
+    "label": "Administration",
+    "link": {
+        "type": "generated-index",
+        "description": "Access to administrative functions and settings."
+    }
+} 

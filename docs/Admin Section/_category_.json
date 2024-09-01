@@ -1,7 +1,0 @@
-{
-    "label": "Admin Section",
-    "link": {
-        "type": "generated-index",
-        "description": "The Admin Section module is the administrative backbone of the system, designed to manage various operational aspects that ensure the smooth running of the institution. This module consolidates essential functions that range from handling admission inquiries to managing visitor records, complaints, postal services, and more. The Admin Section is crucial for maintaining order, security, and efficiency within the institution."
-    }
-}
