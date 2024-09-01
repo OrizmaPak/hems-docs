@@ -1,12 +1,12 @@
 ---
-sidebar_position: 45
+sidebar_position: 8
 ---
 
-# Messages
+# change password
 
 **HEMS - Hotel Manager**
 
-![HEMS Registration](../../static/img/messages.png "HEMS Registration")
+![HEMS Registration](../../static/img/changepassword.png "HEMS Registration")
 
 # Change Password
 
